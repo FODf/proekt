@@ -312,7 +312,7 @@ padding: 40px;
     width: 100%;
     padding: 70px;
     height: 960px;color: white;
-    background-image: url(/Rectangle\ 40.png);
+    background-image: url(../Rectangle\ 40.png);
     display: flex;
     justify-content: center;
     flex-direction: row;

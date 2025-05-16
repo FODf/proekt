@@ -381,7 +381,7 @@ padding: 40px;
     width: 100%;
     padding: 70px;
     height: 960px;color: white;
-    background-image: url(/Rectangle\ 40.png);
+    background-image: url(../Rectangle\ 40.png);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -396,7 +396,7 @@ letter-spacing: 0.6px;
 
 }
 .article_item1{
-    background-image: url(/Frame.png);
+    background-image: url(../Frame.png);
     width: 384px;
 height: 320px;
 }
